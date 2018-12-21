@@ -1,0 +1,17 @@
+module.exports = [
+  'react',
+  'react-dom',
+  'react-router',
+  'classnames',
+  'whatwg-fetch',
+  'mobx',
+  'mobx-react',
+  'moment',
+  'babel-polyfill',
+  "twemoji",
+  "sha1",
+  "react-sortable-hoc",
+  "react-image-crop",
+  "react-copy-to-clipboard",
+  "antd",
+]

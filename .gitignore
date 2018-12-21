@@ -1,0 +1,17 @@
+.idea
+node_modules
+npm-debug.log
+yarn-error.log
+.tern-project
+typings
+app/*/*.map
+.project
+/.cache/
+/.happypack/
+/sh.exe.stackdump
+/__cache__
+/__tests__/coverage
+local.config.js
+/*.text
+.vscode
+dist

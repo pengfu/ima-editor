@@ -1,0 +1,21 @@
+.loading {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 100;
+  margin: auto;
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  background: #fff
+    url(http://qnm.hunliji.com/o_1ap5grhea9g71e331cev1s3r17bv7.gif) center
+    bottom no-repeat;
+  background-size: 40px;
+  
+}
+.loading.fadeOut {
+  opacity: 0;
+  display: none;
+}
